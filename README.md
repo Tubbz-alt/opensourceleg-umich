@@ -8,8 +8,11 @@ Thus, the three main goals of the project are as follows:
 * Evaluate the benefit of resulting controllers in amputee experiments; thereby validating the proposed open-source system as a general tool for research on prosthesis control.
 * The project has leveraged the expertise and facilities of Lead PI Rouse at the University of Michigan — Ann Arbor, PI Gregg at the University of Texas at Dallas, and PI Geyer at Carnegie Mellon University.
 
+# Knee:
 
 ![knee](https://github.com/homebrew-bionics/opensourceleg-umich/blob/master/design/render/ankle.jpg)
+
+# Ankle:
 
 ![ankle](https://github.com/homebrew-bionics/opensourceleg-umich/blob/master/design/render/ankle.jpg)
 
