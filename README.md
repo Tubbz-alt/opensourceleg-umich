@@ -10,7 +10,7 @@ Thus, the three main goals of the project are as follows:
 
 # Knee:
 
-![knee](https://github.com/homebrew-bionics/opensourceleg-umich/blob/master/design/render/ankle.jpg)
+![knee](https://github.com/homebrew-bionics/opensourceleg-umich/blob/master/design/render/knee.jpg)
 
 # Ankle:
 
